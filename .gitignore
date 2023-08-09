@@ -1,0 +1,4 @@
+node_modules
+uploads
+eng.traineddata
+package-lock.json
